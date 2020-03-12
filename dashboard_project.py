@@ -19,7 +19,7 @@ for code in eurnxt.index:
     mydict['value'] = code
     options.append(mydict)
 
-quandl.ApiConfig.api_key = "y4Yy1Xb96bhB1exu3VEy"
+quandl.ApiConfig.api_key = "YOUR_API-KEY"
 
 app.layout = html.Div([
     html.H1('Euronext Stocks Dashboard'),
