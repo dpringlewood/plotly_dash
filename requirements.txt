@@ -18,10 +18,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.1
 lxml==4.5.0
 MarkupSafe==1.1.1
-mkl-fft==1.0.15
-mkl-random==1.1.0
-mkl-service==2.3.0
-more-itertools==8.2.0
+more-itertools==5.0.0
 numpy==1.18.1
 pandas==1.0.1
 pandas-datareader==0.8.1
@@ -42,3 +39,4 @@ urllib3==1.25.8
 Werkzeug==1.0.0
 win-inet-pton==1.1.0
 wincertstore==0.2
+gunicorn==20.0.4
